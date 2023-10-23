@@ -1,0 +1,20 @@
+.calc-container{
+    /* 150 * 16 */
+    height:50em; 
+    width:30em;
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.calc-container .top-container{
+    height:300px;
+    background-color: black;
+    border-radius: 50px;
+    color:white;
+}
+.calc-container .bottom-container{
+    height:500px;
+    background-color: black;
+    border-radius: 50px;
+    color:white;
+}

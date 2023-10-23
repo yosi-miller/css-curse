@@ -1,0 +1,9 @@
+.box{
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+}
+
+.sub-continer .continer .box{
+    background-color: yellow;
+}
